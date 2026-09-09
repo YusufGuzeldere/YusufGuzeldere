@@ -4,20 +4,7 @@
 
   <br/><br/>
 
-  <!-- Badges -->
-  <a href="https://www.linkedin.com/in/yusufguzeldere" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://yusufguzeldere.com" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-121013?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
-  </a>
-
-  <br/><br/>
-
-  <!-- Visitor Counter -->
-  <img src="https://komarev.com/ghpvc/?username=YusufGuzeldere&color=blue&style=flat-square&label=visitors" alt="Visitor Counter" />
-
-  # Hi, I'm Yusuf 👋
+  # Hi, I'm Yusuf Güzeldere 👋
 
 </div>
 
