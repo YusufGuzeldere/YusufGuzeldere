@@ -3,8 +3,7 @@
   <img src="https://media.giphy.com/media/qgQUJM1vyBqxq/giphy.gif" width="180px" alt="Coding GIF">
 
   <br/><br/>
-
-  # Hi, I'm Yusuf Güzeldere 👋
+  # Hi, I'm Yusuf 👋
 
 </div>
 
@@ -35,7 +34,9 @@ I focus on developing **Agentic AI workflows**, **Multimodal RAG architectures**
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" alt="ros" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="streamlit" width="40" height="40"/>
 </p>
 
 ---
@@ -44,3 +45,12 @@ I focus on developing **Agentic AI workflows**, **Multimodal RAG architectures**
 
 > **[Codebase Architect Agent](https://github.com/YusufGuzeldere/codebase-architect-agent)**  
 > An AI agent that analyzes local and remote GitHub repositories, converts complex code bases into interactive architecture diagrams (Mermaid.js), and answers structural questions locally using **Llama 3**, **ChromaDB**, and **LangChain**.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YusufGuzeldere&show_icons=true&theme=dark&hide_border=true" alt="Yusuf's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusufGuzeldere&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+</p>
